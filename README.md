@@ -2,6 +2,8 @@
 
 This repo (under construction) contains the codebase and datasets for the paper: CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market. 
 
+❗️**Updated on 2023-09-11**: Our research paper is available on [arXiv](https://arxiv.org/abs/2309.04389).
+
 ## Abstract
 
 In recent years, great advances in pre-trained language models (PLMs) have sparked considerable research focus and achieved promising performance on the approach of dense passage retrieval, which aims at retrieving relative passages from massive corpus with given questions. However, most of existing datasets mainly benchmark the models with factoid queries of general commonsense, while specialised fields such as finance and economics remain unexplored due to the deficiency of large-scale and high-quality datasets with expert annotations. 
