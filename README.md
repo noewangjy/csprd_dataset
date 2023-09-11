@@ -1,6 +1,6 @@
 # The Chinese Stock Policy Retrieval Dataset (CSPRD)
 
-This repo (under construction) contains the codebase and datasets for the paper: **CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market. **
+This repo (under construction) contains the codebase and datasets for the paper: **CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market.**
 
 ❗️**Updated on 2023-09-11**: Our research paper is available on [arXiv](https://arxiv.org/abs/2309.04389).
 
