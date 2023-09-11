@@ -23,7 +23,7 @@ In this work, we propose a new task, policy retrieval, by introducing the Chines
 
 ## Citation
 
-If you find this dataset and paper usefull or use the codebase in your work, please cite our paper:
+If you find this dataset and paper useful or use the codebase in your work, please cite our paper:
 
 ```bibtex
 @misc{wang2023csprd,
