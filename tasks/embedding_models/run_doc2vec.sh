@@ -1,0 +1,8 @@
+export PYTHONPATH=$PYTHONPATH:../../
+export DATAPATH=/data1/policy_matching/data/cspd_v1
+
+
+python run.py --corpus_path $DATAPATH/policy_corpus.tsv \
+  --dev_path $DATAPATH/dev_set.tsv \
+  --retriever doc2vec \
+  --output_dir /data2/zeroshot/doc2vec_cspd_v1_train_on_corpus
