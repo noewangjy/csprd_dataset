@@ -1,6 +1,6 @@
 # The Chinese Stock Policy Retrieval Dataset (CSPRD)
 
-This repo (under construction) contains the codebase and datasets for the paper: **CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market.**
+This repo contains the codebase and datasets for the paper: **CSPRD: A Financial Policy Retrieval Dataset for Chinese Stock Market.**
 
 > 💻**Updated on 2024-03-07**: Our research code is now available.
 >
@@ -10,7 +10,7 @@ The Policy Retrieval task is a new task that aims to retrieve relevant policy do
 
 ![task_overview](img/task_overview.jpg)
 
-## 0. Repository Structure
+**Repository Structure**
 
 - `csprd_dataset/`: contains the CSPRD dataset in Chinese and English
 - `data/`: contains the processed HuggingFace dataset for training and evaluation
